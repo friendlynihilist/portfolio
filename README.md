@@ -2,7 +2,8 @@
 
 This repository contains the source code for my personal academic and research portfolio, hosted via **GitHub Pages**.
 
-🔗 **Live site**: [friendlynihilist.github.io](https://friendlynihilist.github.io/portfolio/) 
+🔗 **Live site**: [friendlynihilist.github.io](https://friendlynihilist.github.io/portfolio/)
+
 🎓 **Field**: Digital Humanities, Semantic Web, Digital Annotation
 
 ## Description
